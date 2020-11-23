@@ -1,8 +1,8 @@
 # CharanProject
-Task: a website that helps to track the different items we have for sale
+Task: a website that helps to track the different items we have for sale.
 
-Frontend : I have used ASP.Net MVC(3 hrs)
-Backend : I have used C#(2 hrs)
+Frontend : ASP.Net MVC(3 hrs)
+Backend : C#(2 hrs)
 Database : SQL server 2014
 Visual Studio 2019
 
@@ -35,7 +35,7 @@ Once you give the details of the new item and save “The popup window automatic
 By using “Details.cshtml and ActionResult Details” I have added the link “Detail” on every row
 
 
- when you click on the corresponding row it will take “product_id” as a parameter and display the corresponding Product details on the pop-up window(without loading or navigating to the new page)
+ when you click on the corresponding row it will take “product_id” as a parameter and it will display the corresponding Product details on the pop-up window(without loading or navigating to the new page)
 
 
 I have added another button “Delete” in each row to delete the data by passing product_id as parameter.
