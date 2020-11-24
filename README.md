@@ -1,5 +1,5 @@
 # CharanProject
-Task: a website that helps to track the different items we have for sale.
+Task: a website that helps to track different items we have for sale.
 
 Frontend : ASP.Net MVC(3 hrs)
 Backend : C#(2 hrs)
